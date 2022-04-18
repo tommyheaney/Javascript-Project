@@ -1,0 +1,1 @@
+alert("Who is th Donald's trumpz");
